@@ -1,0 +1,6 @@
+time
+ultralytics
+opencv-contrib-python
+numpy
+os
+pygame
